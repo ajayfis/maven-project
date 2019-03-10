@@ -1,3 +1,2 @@
 hello ,jenkins
-this is prakash
-new line
+this is Ajay
